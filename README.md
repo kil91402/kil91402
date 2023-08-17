@@ -7,7 +7,7 @@ Hello! I'm Ajamu.😃 I am an Educator and IT specialist with a goal of enhancin
 
 - 🌱 I’m currently learning **React, SQL, Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kil91402
+- 👨‍💻 All of my projects are available at [https://github.com/kil91402]
 - 💬 Ask me about **React, Javascript, Node**
 
 - 📫 How to reach me **kil91402@gmail.com**
